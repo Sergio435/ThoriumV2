@@ -63,4 +63,4 @@ client.on("message", message => {
 
 });
 
-client.login("ODI5ODU5NjAyNjg1MjMxMTM0.YG-Q-w.41HJ1BhTbmGCiPKZhhZqdFfvZKM");
+client.login("no mires puto");
